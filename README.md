@@ -1,2 +1,2 @@
-# effi_projrct
+# effi_project
 Internship _project
